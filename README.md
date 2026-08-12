@@ -48,4 +48,5 @@
 ⠀⠀⠀⠀⠀⣿⣿⡿⠀⠀⠘⠿⢿⣿⡿⠟⠁⠀⠘⠿⣿⣿⠿⠋⠀⠀⠀⠹⢿⣿⡿⠇⢸⣿⣿⠃⣿⣿⣿⣿⣿⠀⠀⣾⣿⣿⠀⠀⠀⢠⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀
 
 
-# Elliot just a tech
+# Sometimes I dream of saving the world. Saving everyone from the invisible hand that brands us with an employee badge, forces us to work for them, and controls us every day without our knowledge. But I cannot stop it.
+![alt]([ссылка.gif](https://i.giphy.com/WiM5K1e9MtEic.webp))
