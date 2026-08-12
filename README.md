@@ -49,4 +49,4 @@
 
 
 # Sometimes I dream of saving the world. Saving everyone from the invisible hand that brands us with an employee badge, forces us to work for them, and controls us every day without our knowledge. But I cannot stop it.
-![alt]([ссылка.gif](https://i.giphy.com/WiM5K1e9MtEic.webp))
+<div class="tenor-gif-embed" data-postid="26246178" data-share-method="host" data-aspect-ratio="1.62437" data-width="100%"><a href="https://tenor.com/view/100-gif-26246178">100 GIF</a>from <a href="https://tenor.com/search/100-gifs">100 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
